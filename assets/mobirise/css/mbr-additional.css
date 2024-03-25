@@ -3804,15 +3804,15 @@ a {
 .cid-u2dozhIVQZ .mbr-section-btn {
   text-align: center;
 }
-.cid-u2doziaE3K {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #edefeb;
+.cid-u82ibBb61q {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #ffffff;
 }
-.cid-u2doziaE3K .mbr-fallback-image.disabled {
+.cid-u82ibBb61q .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-u2doziaE3K .mbr-fallback-image {
+.cid-u82ibBb61q .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -3821,51 +3821,147 @@ a {
   position: absolute;
   top: 0;
 }
-@media (max-width: 767px) {
-  .cid-u2doziaE3K .image-wrapper {
-    flex-direction: column;
-  }
-  .cid-u2doziaE3K .image-wrapper img {
-    margin: auto;
+.cid-u82ibBb61q .row-reverse {
+  flex-direction: row-reverse;
+}
+@media (max-width: 991px) {
+  .cid-u82ibBb61q .image-wrapper {
     margin-bottom: 1rem;
   }
 }
-.cid-u2doziaE3K .card-box {
-  max-width: 750px;
+.cid-u82ibBb61q .row {
+  align-items: center;
   padding-top: 2rem;
-  margin-left: auto;
-  margin-right: 0;
+  padding-bottom: 2rem;
 }
-.cid-u2doziaE3K img,
-.cid-u2doziaE3K .item-img {
-  width: 100%;
-}
-.cid-u2doziaE3K .card-wrapper {
-  background: #ffffff;
-}
-.cid-u2doziaE3K .mbr-text,
-.cid-u2doziaE3K .mbr-section-btn {
-  color: #000000;
-}
-.cid-u2doziaE3K .card-title,
-.cid-u2doziaE3K .card-box {
-  color: #232323;
-}
-@media (max-width: 767px) {
-  .cid-u2doziaE3K .card-content-text {
-    padding: 2rem 1.5rem;
-    margin-bottom: 1rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-u2doziaE3K .card-content-text {
-    padding: 2.25rem;
+@media (max-width: 991px) {
+  .cid-u82ibBb61q .image-wrapper {
+    padding: 1rem;
   }
 }
 @media (min-width: 992px) {
-  .cid-u2doziaE3K .card-content-text {
-    padding: 4rem;
+  .cid-u82ibBb61q .text-wrapper {
+    padding: 0 2rem;
   }
+}
+.cid-u82ibBb61q .mbr-section-title {
+  color: #000000;
+}
+.cid-u82ibBb61q .mbr-text,
+.cid-u82ibBb61q .mbr-section-btn {
+  color: #000000;
+}
+.cid-u82ibBb61q img {
+  width: 100%;
+  height: 100%;
+}
+.cid-u82o8fZIDp {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #ffffff;
+}
+.cid-u82o8fZIDp .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u82o8fZIDp .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-u82o8fZIDp .row-reverse {
+  flex-direction: row-reverse;
+}
+@media (max-width: 991px) {
+  .cid-u82o8fZIDp .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-u82o8fZIDp .row {
+  align-items: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+@media (max-width: 991px) {
+  .cid-u82o8fZIDp .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-u82o8fZIDp .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-u82o8fZIDp .mbr-section-title {
+  color: #000000;
+}
+.cid-u82o8fZIDp .mbr-text,
+.cid-u82o8fZIDp .mbr-section-btn {
+  color: #000000;
+}
+.cid-u82o8fZIDp img {
+  width: 100%;
+  object-fit: cover;
+  height: 30rem;
+}
+@media (max-width: 767px) {
+  .cid-u82o8fZIDp img {
+    height: 15rem;
+  }
+}
+.cid-u82r22gcDD {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #ffffff;
+}
+.cid-u82r22gcDD .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u82r22gcDD .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-u82r22gcDD .row-reverse {
+  flex-direction: row-reverse;
+}
+@media (max-width: 991px) {
+  .cid-u82r22gcDD .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-u82r22gcDD .row {
+  align-items: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+@media (max-width: 991px) {
+  .cid-u82r22gcDD .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-u82r22gcDD .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-u82r22gcDD .mbr-section-title {
+  color: #000000;
+}
+.cid-u82r22gcDD .mbr-text,
+.cid-u82r22gcDD .mbr-section-btn {
+  color: #000000;
+}
+.cid-u82r22gcDD img {
+  width: 100%;
+  height: 100%;
 }
 .cid-u2grCriMNs {
   padding-top: 3rem;
