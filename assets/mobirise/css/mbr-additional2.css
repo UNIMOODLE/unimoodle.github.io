@@ -2331,14 +2331,28 @@ a {
 .cid-u2bIKPc7jk .mbr-section-btn {
   text-align: center;
 }
-.cid-u6NjDq7d7x {
-  background-color: #ffffff;
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-uqGJscu6o0 {
+  background: #ffffff;
 }
-.cid-u6NjDq7d7x img {
-  object-fit: contain;
-  border-radius: 0 !important;
+.cid-uqGJscu6o0 .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-uqGJscu6o0 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-uqGJscu6o0 figcaption {
+  position: relative;
+}
+.cid-uqGJscu6o0 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-uqGJscu6o0 .image-block {
+    width: 100% !important;
+  }
 }
 .cid-u2bJSmHzwu {
   padding-top: 3rem;
