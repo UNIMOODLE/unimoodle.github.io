@@ -3,9 +3,6 @@
 		<loc>https://unimoodle.git.io/index.html</loc>
 	</url>
 	<url>
-		<loc>https://unimoodle.git.io/partners.html</loc>
-	</url>
-	<url>
 		<loc>https://unimoodle.git.io/mail20.html</loc>
 	</url>
 	<url>
@@ -13,5 +10,8 @@
 	</url>
 	<url>
 		<loc>https://unimoodle.git.io/dissemination.html</loc>
+	</url>
+	<url>
+		<loc>https://unimoodle.git.io/contact.html</loc>
 	</url>
 </urlset>
